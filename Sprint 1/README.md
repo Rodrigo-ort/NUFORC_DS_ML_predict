@@ -1,0 +1,2 @@
+## Primeira Sprint - Coleta
+Desenvolva um script Python para executar a coleta de dadso dos vinte anos, entre setembro de 1997 e agosto de 2017. Coloque tudo em um Dataframe e depois salve em um arquivo.CSV com o nome OVNIS.csv.
